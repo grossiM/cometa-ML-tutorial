@@ -21,7 +21,7 @@ This tutorial would not be possible with the large effort from [Kevin Grief](htt
 This tutorial uses Jupyter for interactive notebooks.
 
 If you do not wish to download any new packages/materials locally you can use Binder to build an enviroment from the GitHub page directly and host it on a webpage. Simply go to the Binder website:
-[https://mybinder.org/](https://mybinder.org/), input the GitHub address <https://github.com/RobertLes/cometa-ML-tutorial> and hit launch! This may take several minutes to build, and will not be very fast for interactivity so we also provide instructions on how to run the notebooks on a local laptop.
+[https://mybinder.org/](https://mybinder.org/), input the GitHub address <https://github.com/grossiM/cometa-ML-tutorial> and hit launch! This may take several minutes to build, and will not be very fast for interactivity so we also provide instructions on how to run the notebooks on a local laptop.
 
 ## Tutorial workflow
 There are 4 notebooks
